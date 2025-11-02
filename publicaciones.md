@@ -54,10 +54,6 @@ _International Journal of Green Energy_, Vol. 21(14), pp. 3252-3269, 2024
 Avila-Anguis, A., Cota-Cárdenas, K.K., Gutiérrez-Antonio, C., **Lara-Montaño, O.D.**, Bernabé-Martínez, R., Palomares-Rodríguez, C., Martínez-Guido, S.I.  
 _Clean Technologies and Environmental Policy_, 2024
 
-**Development of a Computational Tool for the Solution of Optimal Control Problems with Metaheuristic Techniques**  
-Herrera-Álvarez, E., **Lara-Montaño, O.D.**, May-Vázquez, M.M., Gómez-Castro, F.I., Gutiérrez-Antonio, C., Toledano-Ayala, M.  
-_Computer Aided Chemical Engineering_, Vol. 53, pp. 3289-3294, 2024
-
 ### 2021
 
 **Comparison of the Performance of Different Metaheuristic Methods for the Optimization of Shell-and-Tube Heat Exchangers**  
@@ -137,6 +133,10 @@ DOI: [10.1016/B978-0-443-28824-1.50283-0](https://doi.org/10.1016/B978-0-443-288
 **Lara-Montaño, O.D.**, Romero-Izquierdo, A.G., Gutiérrez-Antonio, C., Hernández, S., Gómez-Castro, F.I.  
 _34th European Symposium on Computer Aided Process Engineering (ESCAPE 34)_, pp. 2497-2502, 2024  
 DOI: [10.1016/B978-0-443-28824-1.50417-7](https://doi.org/10.1016/B978-0-443-28824-1.50417-7)
+
+**Development of a Computational Tool for the Solution of Optimal Control Problems with Metaheuristic Techniques**  
+Herrera-Álvarez, E., **Lara-Montaño, O.D.**, May-Vázquez, M.M., Gómez-Castro, F.I., Gutiérrez-Antonio, C., Toledano-Ayala, M.  
+_Computer Aided Chemical Engineering_, Vol. 53, pp. 3289-3294, 2024
 
 ### ESCAPE 33 (2023)
 
