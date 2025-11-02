@@ -9,16 +9,6 @@ title: Publicaciones
 
 ---
 
-## Resumen
-
-- **Artículos en revistas indexadas:** 7
-- **Capítulos de libro:** 3
-- **Conferencias internacionales:** 7
-- **Conferencias nacionales:** 21
-- **Total:** 38 publicaciones
-
----
-
 ## 📄 Artículos en Revistas Indexadas
 
 ### 2025
