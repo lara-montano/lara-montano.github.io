@@ -1,12 +1,23 @@
 title: Dr. Oscar Daniel Lara Montaño
 description: Profesor-Investigador en Ingeniería Química | Universidad Autónoma de Querétaro
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 author:
   name: Oscar Daniel Lara Montaño
   email: od.laramontano@gmail.com
 
+logo: avatar.jpg
+
+show_downloads: false
+
 markdown: kramdown
+
+social:
+  github: lara-montano
+  email: od.laramontano@gmail.com
+
+google_scholar: https://scholar.google.com/citations?user=ifG2_hwAAAAJ&hl=en
+orcid: https://orcid.org/0000-0003-2055-1216
 
 plugins:
   - jekyll-seo-tag
