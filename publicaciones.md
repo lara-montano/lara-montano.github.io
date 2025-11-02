@@ -308,55 +308,43 @@ Virtual, 2020
 
 ---
 
-## 📊 Métricas de Investigación
-
-- **Total de publicaciones:** 38
-- **Artículos en revistas indexadas:** 7
-- **Conferencias internacionales:** 7 (ESCAPE + otras internacionales)
-- **Conferencias nacionales:** 21 (AMIDIQ, Simposios de Optimización)
-- **Capítulos de libro:** 3
-- **Citaciones:** Consultar [Google Scholar](https://scholar.google.com/citations?user=ifG2_hwAAAAJ&hl=en)
-- **ORCID:** [0000-0003-2055-1216](https://orcid.org/0000-0003-2055-1216)
-
----
-
 ## 🔍 Temas de Investigación Principales
 
 Basado en las publicaciones:
 
-1. **Optimización de intercambiadores de calor** (15+ publicaciones)
+1. **Optimización de intercambiadores de calor** 
    - Diseño óptimo bajo incertidumbre
    - Optimización robusta y basada en confiabilidad
    - Modelos determinísticos vs. estocásticos
 
-2. **Redes neuronales artificiales** (8+ publicaciones)
+2. **Redes neuronales artificiales** 
    - Modelos ANN y H-ANN (híbridos)
    - Optimización de arquitecturas e hiperparámetros
    - Estrategias bayesianas
 
-3. **Algoritmos metaheurísticos** (10+ publicaciones)
+3. **Algoritmos metaheurísticos** 
    - Desarrollo del SBOA
    - Comparativas de desempeño (PSO, DE, GA)
    - Aplicaciones en equipos de proceso y control óptimo
 
-4. **Biorrefinería y biocombustibles** (8+ publicaciones)
+4. **Biorrefinería y biocombustibles** 
    - Microalgas
    - Biodiesel (mosca soldado negro)
    - Bioetanol y combustibles de aviación sostenibles
    - Licopeno
 
-5. **Sistemas energéticos** (5+ publicaciones)
+5. **Sistemas energéticos** 
    - Integración energética
    - Energías renovables
    - Planeación sustentable
    - Mapeo de sistemas energéticos en Querétaro
 
-6. **Destilación y separación** (6+ publicaciones)
+6. **Destilación y separación** 
    - Destilación reactiva
    - Destilación por lotes
    - Purificación de bioetanol
 
-7. **Cadenas de suministro sostenibles** (4+ publicaciones)
+7. **Cadenas de suministro sostenibles** 
    - Diseño óptimo de cadenas de valor
    - Análisis de costos
    - Valorización de residuos agrícolas
