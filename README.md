@@ -32,7 +32,10 @@ Me interesa colaborar en: optimización de procesos industriales, nuevos metaheu
 
 ---
 
-### Publicaciones
-Consulta el listado completo → **/publicaciones**
+## 📄 Páginas
+
+- **[Ver todas mis publicaciones →](/publicaciones)** (34 publicaciones totales)
+
+---
 
 _Última actualización: Noviembre 2025_
