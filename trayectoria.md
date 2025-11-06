@@ -12,7 +12,7 @@ title: Trayectoria
 ## 🏆 Reconocimientos
 
 - **Sistema Estatal de Investigadores (SESHITI)** - Nivel Candidato
-- Reconocimiento a la Excelencia Académica - Universidad Anahuac
+- Reconocimiento a la Excelencia Académica (2025) - Universidad Anahuac
 
 ---
 
@@ -20,16 +20,24 @@ title: Trayectoria
 
 **Revistas:**
 - *Applied Soft Computing* (Elsevier)
-- *Applied Thermal Engineering*
-- *Chemical Engineering Research and Design*
-- *International Journal of Green Energy*
+- *Case Studies in Chemical and Environmental Engineering* (Elsevier)
+- *Chemical Engineering Journal Advances* (Elsevier)
+- *Systems and Soft Computing* (Elsevier)
+- *Engineering Reports* (Wiley)
+- *Naturaleza y Tecnología* (Universidad de Guanajuato)
 
 ---
 
 ## 🤝 Colaboraciones
 
 - Universidad de Guanajuato (México)
+- Universidad Michoacana San Nicolás de Hidalgo (México)
+- Universidad Autónoma de Yucatán (México)
+- University of Porto (Portugal)
+- Obuda University (Hungary) 
 - Griffith University (Australia)
+- Gheorghe Asachi Technical University  (Romanía)
+- TU Dortmund University (Alemania)
 
 ---
 
