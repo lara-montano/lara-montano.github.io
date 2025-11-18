@@ -11,9 +11,8 @@ Ejercicios de gramática y estructura en inglés, formato TOEFL.
 
 | Práctica | Ejercicios | Estado |
 |----------|------------|--------|
-| [Practice 1](practice-1/) | 50 (25 Structure + 25 Written Expression) | ✅ Disponible |
-| [Practice 2](practice-2/) | 50 (25 Structure + 25 Written Expression) | ✅ Disponible |
-| [Practice 3](practice-3/) | 50 (25 Structure + 25 Written Expression) | ✅ Disponible |
+| [Practice 1](teaching-materials/toefl-grammar/practice-1) | 50 (25 Structure + 25 Written Expression) | ✅ Disponible |
+| [Practice 2](teaching-materials/toefl-grammar/practice-2) | 50 (25 Structure + 25 Written Expression) | ✅ Disponible |
 
 ---
 
