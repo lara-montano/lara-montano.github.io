@@ -19,6 +19,14 @@ _Enfoque:_ aprendizaje basado en modelos, experimentación computacional y evalu
 
 ---
 
+## Materiales Didácticos
+
+Recursos y ejercicios para estudiantes:
+
+* [Ejercicios TOEFL Structure & Written Expression](teaching-materials/toefl/) - 50 ejercicios de práctica
+
+---
+
 ## Colaboración
 Me interesa colaborar en: optimización de procesos industriales, nuevos metaheurísticos, integración/planeación de sistemas con renovables y **AI aplicada** en ingeniería.
 
