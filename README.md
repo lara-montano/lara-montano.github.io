@@ -23,7 +23,7 @@ _Enfoque:_ aprendizaje basado en modelos, experimentación computacional y evalu
 
 Recursos y ejercicios para estudiantes:
 
-* [Ejercicios TOEFL Structure & Written Expression](teaching-materials/toefl/) - 50 ejercicios de práctica
+* [Ejercicios TOEFL Structure & Written Expression](teaching-materials/toefl-grammar) - 50 ejercicios de práctica
 
 ---
 
