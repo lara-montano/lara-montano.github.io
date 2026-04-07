@@ -1,0 +1,95 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Academic site overrides for Cayman theme */
+
+/* Toned-down header */
+.page-header {
+  padding: 1.5rem 1rem;
+  background-image: none;
+  background-color: #1a2332;
+}
+
+.project-name {
+  font-size: 1.8rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+.project-tagline {
+  font-size: 1rem;
+  font-weight: 300;
+  opacity: 0.85;
+}
+
+/* Narrower content for readability */
+.main-content {
+  max-width: 52rem;
+  padding: 2rem 1rem;
+  margin: 0 auto;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* Clean headings */
+.main-content h1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #1a2332;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+.main-content h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-top: 1.8rem;
+}
+
+.main-content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #34495e;
+  margin-top: 1.5rem;
+}
+
+/* Links */
+.main-content a {
+  color: #2471a3;
+  text-decoration: none;
+}
+
+.main-content a:hover {
+  text-decoration: underline;
+}
+
+/* Horizontal rules */
+.main-content hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 1.5rem 0;
+}
+
+/* Lists */
+.main-content ul, .main-content ol {
+  margin-left: 1.2rem;
+}
+
+.main-content li {
+  margin-bottom: 0.4rem;
+}
+
+/* Hide default Cayman buttons */
+.btn {
+  display: none;
+}
+
+/* Footer */
+.site-footer {
+  font-size: 0.85rem;
+  color: #999;
+}

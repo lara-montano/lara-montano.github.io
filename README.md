@@ -1,49 +1,24 @@
-# 👋 Hola, soy Daniel Lara
-
-**Profesor-Investigador** en la **Universidad Autónoma de Querétaro (Facultad de Ingeniería)**. Trabajo en **optimización de procesos**, **metaheurísticos** y **modelado/optimización de equipos y sistemas** (p. ej., intercambiadores de calor).
-
-— _Palabras clave:_ NLP/MINLP, MILP, optimización robusta, metaheurísticos (SBOA, PSO, DE, GA), diseño de intercambiadores.
+[Publications](publications) &ensp; [Software](software) &ensp; [Teaching](teaching) &ensp; [CV](cv)
 
 ---
 
-## Qué hago
-- **Optimización de procesos y equipos**: formulación matemática (NLP/MINLP), penalización/barrera y enfoques robustos.  
-- **Metaheurísticos**: desarrollo y evaluación del **Success-Based Optimization Algorithm (SBOA)** y comparativas con PSO/DE/GA.  
-- **Sistemas y cadenas**: modelos de planeación y diseño (MILP) aplicados a energía y valorización/abastecimiento.
+I am an Assistant Professor and Researcher at the **Facultad de Ingenieria, Universidad Autonoma de Queretaro**, Mexico.
 
----
+My research focuses on **mathematical optimization applied to chemical process engineering**. I develop and apply metaheuristic algorithms, mathematical programming formulations (NLP/MINLP/MILP), and artificial neural networks to the design and optimization of process equipment, supply chains, and biorefineries.
 
-## Docencia
-He impartido: **Simulación**, **Optimización de procesos**, **Diseño de plantas**, **Cálculo diferencial**, **Cálculo integral**, **Fundamentos de IA**, **Optimización avanzada**, **Matemáticas avanzadas**.  
-_Enfoque:_ aprendizaje basado en modelos, experimentación computacional y evaluación de desempeño.
+### Research interests
 
----
+- **Process optimization:** deterministic and stochastic formulations for equipment design, with emphasis on shell-and-tube heat exchangers
+- **Metaheuristic algorithms:** development of the Success-Based Optimization Algorithm (SBOA) and benchmarking against established methods
+- **Reliability-based and robust design:** optimization under uncertainty for process equipment
+- **Artificial neural networks:** surrogate models (ANN, hybrid ANN) for equipment design and process simulation
+- **Supply chain and biorefinery design:** MILP-based planning for sustainable energy and waste valorization systems
+- **Techno-economic analysis:** cost estimation tools and economic evaluation of chemical processes
 
-## Materiales Didácticos
+### Contact
 
-Recursos y ejercicios para estudiantes:
+**Email:** oscar.lara@uaq.mx
 
-* [Ejercicios TOEFL Structure & Written Expression](teaching-materials/toefl-grammar) - 50 ejercicios de práctica
-
----
-
-## Colaboración
-Me interesa colaborar en: optimización de procesos industriales, nuevos metaheurísticos, integración/planeación de sistemas con renovables y **AI aplicada** en ingeniería.
-
----
-
-## Contacto y perfiles
-- **Email:** od.laramontano@gmail.com  
-- **ORCID:** [0000-0003-2055-1216](https://orcid.org/0000-0003-2055-1216)  
-- **Google Scholar:** [Perfil](https://scholar.google.com/citations?user=ifG2_hwAAAAJ&hl=en)  
-- **GitHub:** [@lara-montano](https://github.com/lara-montano)
-
----
-
-## 📄 Páginas
-
-- **[Ver todas mis publicaciones →](/publicaciones)**
-
----
-
-_Última actualización: Noviembre 2025_
+[Google Scholar](https://scholar.google.com/citations?user=ifG2_hwAAAAJ&hl=en) &ensp;
+[ORCID: 0000-0003-2055-1216](https://orcid.org/0000-0003-2055-1216) &ensp;
+[GitHub](https://github.com/lara-montano)
