@@ -61,6 +61,10 @@ A.G. Romero-Izquierdo, C.E. Guzman-Martinez, **O.D. Lara-Montano**, S. Hernandez
 *Advanced Biorefineries to Produce Sustainable Aviation Fuel.*
 In: Sustainable Aviation Fuels, pp. 229--249. Springer, 2025.
 
+**O.D. Lara-Montano**, F.I. Gomez-Castro, C. Gutierrez-Antonio, S. Hernandez.
+*Metaheuristics for the Optimization of Process Equipment.*
+In: Optimization in Chemical Engineering. Springer, 2025.
+
 V. Caltzontzin-Rabell, **O.D. Lara-Montano**, A.G. Romero-Izquierdo, S.I. Martinez-Guido, S. Hernandez, C. Gutierrez-Antonio.
 *Microalgae-Based Biofuels: Advances and Challenges.*
 In: Agroenergy, pp. 213--237. Elsevier, 2024.
@@ -69,6 +73,18 @@ In: Agroenergy, pp. 213--237. Elsevier, 2024.
 S. Ohadi, J. Jafari-Asl, **O.D. Lara-Montano**, N.S. Hamzehkolaei.
 *Multi-Objective Reliability-Based Design Optimization of Shell-and-Tube Heat Exchangers.*
 In: Handbook of Smart Energy Systems, pp. 165--182. Springer, 2023.
+
+**O.D. Lara-Montano** et al.
+*Life Cycle Analysis and Biomass Sustainability.*
+In: ReBiBiR-T Series. CYTED, 2023.
+
+**O.D. Lara-Montano** et al.
+*Valorization of Wine Industry Residues.*
+In: ReBiBiR-T Series. CYTED, 2023.
+
+S. Ohadi, J. Jafari-Asl, **O.D. Lara-Montano**, N.S. Hamzehkolaei.
+*Reliability-Based Design Optimization of Shell-and-Tube Heat Exchangers.*
+Springer, 2022.
 
 ---
 
