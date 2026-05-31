@@ -9,6 +9,17 @@ title: Software
 
 # Software
 
+### SBOA Optimizer
+
+Reference Python implementation of the **Success-Based Optimization Algorithm (SBOA)**, a metaheuristic optimizer for continuous and mixed-integer problems. Published in Computers & Chemical Engineering (2025).
+
+**Stack:** Python, NumPy
+**License:** MIT
+
+[Repository](https://github.com/lara-montano/sboa-optimizer) &ensp; [Paper (DOI)](https://doi.org/10.1016/j.compchemeng.2024.108987)
+
+---
+
 ### COSTIQ
 
 Open-source tool for equipment cost estimation in chemical process design. Implements the factorial methodology of Turton et al. (2018) for 36 equipment types with bare-module costing, CEPCI updating, sensitivity analysis, and multi-equipment plant inventory.
@@ -20,13 +31,13 @@ Open-source tool for equipment cost estimation in chemical process design. Imple
 
 ---
 
-### ANN Reactor Course
+### ANN for Chemical Engineering
 
 Teaching materials and code for a course on the use and optimization of artificial neural networks, using simulated data from a chemical reactor as a case study.
 
-**Stack:** Python
+**Stack:** Python, TensorFlow/Keras
 
-[Repository](https://github.com/lara-montano/ANN_reactor_curso)
+[Repository](https://github.com/lara-montano/ANN_reactor_curso) &ensp; [SMILES Course](https://github.com/lara-montano/curso_ann_chem_eng_smiles)
 
 ---
 
