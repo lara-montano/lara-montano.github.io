@@ -6,7 +6,7 @@ I am an Assistant Professor and Researcher at the **Facultad de Ingenieria, Univ
 
 My research focuses on **mathematical optimization applied to chemical process engineering**. I develop and apply metaheuristic algorithms, mathematical programming formulations (NLP/MINLP/MILP), and artificial neural networks to the design and optimization of process equipment, supply chains, and biorefineries.
 
-Author of 8 JCR journal articles, 2 Scopus-indexed articles, 7 book chapters (Springer, Elsevier, CYTED, De Gruyter), and 20+ peer-reviewed conference papers.
+Author of 9 JCR journal articles, 2 Scopus-indexed articles, 7 book chapters (Springer, Elsevier, CYTED, De Gruyter), and 20+ peer-reviewed conference papers.
 
 ### Research interests
 

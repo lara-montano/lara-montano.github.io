@@ -11,42 +11,52 @@ title: Publications
 
 ## Journal articles (JCR)
 
-1. **O.D. Lara-Montano**, F.I. Gomez-Castro, C. Gutierrez-Antonio, E.N. Dragoi.
+1. I. Oliva-Gonzalez, L.T. Gonzalez, **O.D. Lara-Montano**, A.I. Ramirez, A. Mendoza, I.M. Hernandez-Romero.
+*A Hybrid Quantum--Classical Machine Learning Framework for Black Carbon Forecasting.*
+EPJ Quantum Technology, 13, 64, 2026.
+[DOI](https://doi.org/10.1140/epjqt/s40507-026-00511-0)
+
+2. H. Hernandez-Escoto, **O.D. Lara-Montano**, F.O. Barroso-Munoz, S. Hernandez, M.D. Lopez-Ramirez.
+*In-Depth Cost Analysis on the Purification of Bioethanol by Extractive Distillation.*
+Processes, 14, 975, 2026.
+[DOI](https://doi.org/10.3390/pr14060975)
+
+3. **O.D. Lara-Montano**, F.I. Gomez-Castro, C. Gutierrez-Antonio, E.N. Dragoi.
 *Success-Based Optimization Algorithm (SBOA): Development and Enhancement of a Metaheuristic Optimizer.*
 Computers & Chemical Engineering, 194, 108987, 2025.
 [DOI](https://doi.org/10.1016/j.compchemeng.2024.108987)
 
-2. Z.J. Mosqueda-Huerta, **O.D. Lara-Montano**, F.I. Gomez-Castro, M. Toledano-Ayala.
+4. Z.J. Mosqueda-Huerta, **O.D. Lara-Montano**, F.I. Gomez-Castro, M. Toledano-Ayala.
 *Design and Optimization of Shell-and-Tube Heat Exchangers through ANN and H-ANN Models.*
 Chemical Engineering Research and Design, 220, 75--85, 2025.
 [DOI](https://doi.org/10.1016/j.cherd.2025.06.039)
 
-3. A. Avila-Anguis, K.K. Cota-Cardenas, C. Gutierrez-Antonio, **O.D. Lara-Montano**, R. Bernabe-Martinez, C. Palomares-Rodriguez, S.I. Martinez-Guido.
+5. A. Avila-Anguis, K.K. Cota-Cardenas, C. Gutierrez-Antonio, **O.D. Lara-Montano**, R. Bernabe-Martinez, C. Palomares-Rodriguez, S.I. Martinez-Guido.
 *Sustainable Planning of Empty Agrochemical Containers Valorization.*
 Clean Technologies and Environmental Policy, 2025.
 [DOI](https://doi.org/10.1007/s10098-024-03058-9)
 
-4. F.I. Gomez-Castro, H.E. Reynel-Avila, A.G. Romero-Izquierdo, C. Gutierrez-Antonio, D.I. Mendoza-Castillo, A. Bonilla-Petriciolet, **O.D. Lara-Montano**, M.M. May-Vazquez, S. Hernandez.
+6. F.I. Gomez-Castro, H.E. Reynel-Avila, A.G. Romero-Izquierdo, C. Gutierrez-Antonio, D.I. Mendoza-Castillo, A. Bonilla-Petriciolet, **O.D. Lara-Montano**, M.M. May-Vazquez, S. Hernandez.
 *Overcoming the Ethanol/Water Azeotrope: A Review on Advanced Technologies for Bioethanol Purification.*
 Engineering Reports, 7(10), e70451, 2025.
 [DOI](https://doi.org/10.1002/eng2.70451)
 
-5. J. Jafari-Asl, **O.D. Lara-Montano**, S. Mirjalili, M.G.R. Faes.
+7. J. Jafari-Asl, **O.D. Lara-Montano**, S. Mirjalili, M.G.R. Faes.
 *A Meta-Heuristic Approach for Reliability-Based Design Optimization of Shell-and-Tube Heat Exchangers.*
 Applied Thermal Engineering, 248, 123161, 2024.
 [DOI](https://doi.org/10.1016/j.applthermaleng.2024.123161)
 
-6. D.M. Aguilar-Murguia, **O.D. Lara-Montano**, C. Gutierrez-Antonio, J.M. Ponce-Ortega, S.I. Martinez-Guido.
+8. D.M. Aguilar-Murguia, **O.D. Lara-Montano**, C. Gutierrez-Antonio, J.M. Ponce-Ortega, S.I. Martinez-Guido.
 *Optimal Supply Chain Design of Biodiesel Production Using Black Soldier Fly Larvae Oil as Feedstock.*
 International Journal of Green Energy, 21(14), 3252--3269, 2024.
 [DOI](https://doi.org/10.1080/15435075.2024.2375415)
 
-7. **O.D. Lara-Montano**, F.I. Gomez-Castro, C. Gutierrez-Antonio.
+9. **O.D. Lara-Montano**, F.I. Gomez-Castro, C. Gutierrez-Antonio.
 *Comparison of the Performance of Different Metaheuristic Methods for the Optimization of Shell-and-Tube Heat Exchangers.*
 Computers and Chemical Engineering, 152, 107403, 2021.
 [DOI](https://doi.org/10.1016/j.compchemeng.2021.107403)
 
-8. **O.D. Lara-Montano**, F.I. Gomez-Castro, C. Gutierrez-Antonio.
+10. **O.D. Lara-Montano**, F.I. Gomez-Castro, C. Gutierrez-Antonio.
 *Development of a Virtual Environment for the Rigorous Design and Optimization of Shell-and-Tube Heat Exchangers.*
 Computer Aided Chemical Engineering, 48, 1177--1182, 2020.
 [DOI](https://doi.org/10.1016/B978-0-12-823377-1.50197-6)
